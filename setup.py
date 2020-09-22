@@ -1,12 +1,12 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='pconv-keras',
-    author='Mathias Gruber',
+    name='myproject',
+    author='My Self',
     author_email='somehwere@world.com',
     version='0.1.0',
     license='LICENSE',
-    description='pconv',
+    description='This is my new project',
     packages=find_packages(),
     long_description=open('README.md').read(),
 )
